@@ -7,3 +7,5 @@ Ayni gorunumdeki kartlari esleme oyunu.
 Efsanevi card-back cizimi (Uzerinde neredeyse 5 dakika calisildi) bana ait olup, fotograflar `the office` dizisinden `dwight schrute` karakterine aittir.
 
 PS: Son 10 yil icerisinde benden baska bu oyunu uretmeye calismis olan herkese selam olsun.
+
+DEMO: http://aliozendev.com/flip
