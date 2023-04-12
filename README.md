@@ -1,11 +1,15 @@
-# Kart Cevirme Oyunu
+# Memory Game
 
-Ayni gorunumdeki kartlari esleme oyunu.
+This is a memory game based on the character Dwight Schrute from the TV show "The Office". The game has 12 cards, each with a different picture of Dwight Schrute on one side and a card back on the other side. The objective of the game is to match all pairs of cards by clicking on them.
 
-`img` dizini altinda `dw0` dan `dw5` e kadar olan 6 adet kart mevcut. Her bir kartin bir kopyasi da olacagindan oyunda toplam 12 adet kart bulunur. Daha buyuk bir tabloda oynamak icin `script.js` icerisinde `CARD_COUNT` degiskeni degistirilip ona uygun sayida `img` dizini altina foti eklenmelidir.
+## Getting Started
 
-Efsanevi card-back cizimi (Uzerinde neredeyse 5 dakika calisildi) bana ait olup, fotograflar `the office` dizisinden `dwight schrute` karakterine aittir.
+To get started with the game, simply open the index.html file in your web browser. The game should start automatically.
 
-PS: Son 10 yil icerisinde benden baska bu oyunu uretmeye calismis olan herkese selam olsun.
+## Contributing
 
-DEMO: http://aliozendev.com/flip
+If you want to contribute to this project, feel free to fork the repository and submit a pull request.
+
+## License
+
+This project is licensed under the MIT License.

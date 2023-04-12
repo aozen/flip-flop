@@ -43,9 +43,8 @@ function flipCard() {
         return;
     }
 
-    // acilmis olan karta tiklamayi engelle
+    // prevent click on open card
     if (this == firstCard) {
-        console.log(this)
         return;
     }
 
@@ -103,7 +102,7 @@ function resetRound() {
 
 function endGame() {
     setTimeout(() => {
-        alert(`${moves} hamlede kimsenin aklina gelmeyen ve daha onceden yapilmamis bu oyunu tamamladin. Yeyy.`);
+        alert(`You did it! You completed this incredibly innovative and never-been-done-before game in just ${moves} moves! 🎉🤯`);
     }, 300);
 }
 
